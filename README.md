@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ajla-cufurovic
-- 👀 I’m interested in econometrics
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... cufurovicajla12@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i
+- 📫 How to reach me ... 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 ajla-cufurovic/ajla-cufurovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
